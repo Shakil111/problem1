@@ -1,0 +1,110 @@
+*{
+	margin:0px auto;
+}
+.container{
+	width: 1140px;
+	margin: 0px auto;
+	overflow: hidden;
+}
+img{
+	display: block;
+}
+.logo{
+   width: 20%;
+   float: left;
+}
+.logo img{
+	width: 150px;
+}
+.menu-bar{
+	width: 50%;
+	float: left;
+}
+nav ul{
+	list-style: none;
+
+}
+nav ul li{
+	display:inline-block;
+	margin: 34px;
+}
+nav ul li a{
+	text-decoration: none;
+	font-size: 18px;
+	color: #060606;
+}
+.social-icon{
+
+width: 30%;
+
+float: left;
+}
+.social-icon ul{
+
+list-style: none;
+}
+.social-icon ul li{
+
+display: inline-block;
+
+margin:  38px 14px;
+}
+.social-icon ul li a{
+}
+.fa-fa-twitter{
+	background-color:red;
+}
+
+/*herocss*/
+
+.hero{
+	background-image:url(../img/finance.png);
+	background-repeat: no-repeat;
+	background-size:cover;
+	background-attachment: fixed;
+	padding: 86px 0px;
+}
+.hero-section{
+    width: 50%;
+    height: 444px;
+    overflow: hidden;
+    background-color:#b3b3ab52;
+    float: left;
+}
+.hero-section h1{
+
+font-size: 48px;
+
+font-style: inherit;
+
+margin: 71px;
+
+text-align: center;
+
+margin-bottom: 3px;
+}
+.hero-section p{
+
+font-size: 20px;
+
+text-align: center;
+
+margin: 12px;
+}
+.btn{
+
+width: 182px;
+
+margin: 24px 44px;
+
+background-color: #0cf31d;
+
+color: white;
+
+border-radius: 4px;
+
+padding: 13px 17px;
+
+border: none;
+}
+.
